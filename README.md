@@ -1,1 +1,1 @@
-# Everything about IntroToAI Udacity
+# Everything about IntroToAI 
