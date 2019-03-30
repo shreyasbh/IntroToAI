@@ -1,1 +1,1 @@
-# Everything about IntroToAI 
+# Everything related to IntroToAI 
